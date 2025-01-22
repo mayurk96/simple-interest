@@ -12,7 +12,7 @@ Thank you for your interest in contributing to the Simple Interest Calculator pr
 2. **Clone Your Fork**:
    - Clone your fork to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/simple-interest-calculator.git
+     git clone https://github.com/mayurk96/simple-interest.git
      ```
 
 3. **Create a Branch**:
